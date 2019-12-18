@@ -1,6 +1,6 @@
 # haiking-web-ui
 
-> Haiking website user interface
+> Haiking website user interface, built with Server Side Rendering support using Nuxt.js
 
 ## Build Setup
 
