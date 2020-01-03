@@ -2,10 +2,10 @@
   <div class="container">
     <div>
       <h1 class="title">
-        haiking-web-ui
+        WEB UI
       </h1>
       <h2 class="subtitle">
-        Haiking website user interface
+        User Interface
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green"
