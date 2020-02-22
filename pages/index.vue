@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        HAIKING WEB UI
+        HAIKING WEB UI (edit from badri)
       </h1>
       <h2 class="subtitle">
         User Interface
