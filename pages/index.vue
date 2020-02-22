@@ -23,6 +23,15 @@
   </div>
 </template>
 
+<script>
+export default {
+  async created() {
+    const response = await this.$api.getById('category', 2032)
+    console.log(response.responseText)
+  }
+}
+</script>
+
 <style>
 .container {
   margin: 0 auto;
