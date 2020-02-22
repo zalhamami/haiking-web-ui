@@ -2,9 +2,7 @@ import resources from '@/apis/api.resources'
 import handlers from '@/apis/api.handlers'
 
 // eslint-disable-next-line prettier/prettier
-export default ({
-  $axios
-}, inject) => {
+export default ({ $axios }, inject) => {
   const client = $axios
 
   const functions = {

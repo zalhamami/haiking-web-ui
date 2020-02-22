@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        HAIKING WEB UI (edit from badri)
+        HAIKING WEB UI
       </h1>
       <h2 class="subtitle">
         User Interface
@@ -26,8 +26,7 @@
 <script>
 export default {
   async created() {
-    const response = await this.$api.getById('category', 2032)
-    console.log(response.responseText)
+    await this.$api.getById('category', 2032)
   }
 }
 </script>
